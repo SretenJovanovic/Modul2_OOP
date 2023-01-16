@@ -11,4 +11,4 @@ Trenutno postoji samo user admin sa kredencijalima:
 
 Nakon toga napraviti korisnike Operater i Tehnicar.
 Sva tri tipa korisnika imaju posebne stranice.
-Na home stranici svakot korisnika su opisane njegove mogucnosti i dozvole.
+Na home stranici svakog korisnika su opisane njegove mogucnosti i dozvole.
